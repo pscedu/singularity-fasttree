@@ -9,7 +9,7 @@
 Copy the
 
 * `SIF` file
-* and the `fasttree` script
+* and the `FastTree`, `FastTreeMP` and `FastTreeDbl` scripts
 
 to `/opt/packages/FastTree/2.1.11`.
 
