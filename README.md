@@ -9,7 +9,7 @@
 Copy the
 
 * `SIF` file
-* and the `ascp` script
+* and the `fasttree` script
 
 to `/opt/packages/fasttree/2.1.11`.
 
