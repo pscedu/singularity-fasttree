@@ -2,7 +2,7 @@
 
 VERSION=2.1.11
 PACKAGE=fasttree
-TOOL=$PACKAGE
+TOOL=FastTree
 DIRECTORY=$(dirname $0)
 
 PERSISTENT_FILE_STORAGE=/ocean
