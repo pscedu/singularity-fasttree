@@ -9,7 +9,7 @@
 Copy the
 
 * `SIF` file
-* and the `ascp` script
+* and the `fasttree` script
 
 to `/opt/packages/fasttree/2.1.11`.
 
@@ -17,8 +17,7 @@ Copy the file `modulefile.lua` to `/opt/modulefiles/fasttree` as `2.1.11.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
-Run the script `build.sh` to build image locally. As of today, Does not work on MacOSX.
-
+Run the script `build.sh` to build image locally.
 ```
 bash ./build.sh
 ```
