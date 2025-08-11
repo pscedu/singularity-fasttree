@@ -19,3 +19,6 @@ From: debian:latest
     chmod +x FastTree
     chmod +x FastTreeMP
     chmod +x FastTreeDbl
+
+%runscript
+    fasttree "$@"
